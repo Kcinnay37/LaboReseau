@@ -1,0 +1,4 @@
+close = fermer le progamme
+createFile:fileName.txt = cree un fichier text
+getAllFolder = retourn tout le nom de tout les fichiers cree sur le serveur
+write:fileName.txt:text que vous voulez ecrie = ecrire dans un fichier txt

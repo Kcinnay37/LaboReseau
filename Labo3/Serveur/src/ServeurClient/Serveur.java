@@ -182,7 +182,6 @@ public class Serveur
 
     private void WriteFile(String fileName, String text)
     {
-        System.out.println("ca peut etre marcher");
         try
         {
             FileWriter writer = new FileWriter("FileCreate\\" + fileName);
